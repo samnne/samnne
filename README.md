@@ -1,10 +1,11 @@
-## Hi, My name is Sam!👋
+## Hi, My name is Sam!
 
 
-- 📃 I'm currently a second year computer science student at the University of Victoria! <br/>
-- ✨ I'm currently working on MarketQuad, a marketplace built by students, for students!
-- 🧠 I'm always looking to collaborate on new ideas and build out solutions
-- 👓 You can reach me via [Email](mailto:samuel.n.echefu@gmail.com), and [LinkedIn](https://www.linkedin.com/in/samuel-echefu-251a21336/). My inbox is always open!
+- I'm currently a second year computer science student at the University of Victoria! <br/>
+- I'm currently working on MarketQuad, a marketplace built by students, for students!
+- I'm always looking to collaborate on new ideas and build out solutions
+- Checkout my portfolio to see my work experience in more detail [samechefu.com](https://samechefu.com) 
+- You can reach me via [Email](mailto:samuel.n.echefu@gmail.com), and [LinkedIn](https://www.linkedin.com/in/samuel-echefu-251a21336/). My inbox is always open!
 <!--
 **samnne/samnne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
