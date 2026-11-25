@@ -34,6 +34,7 @@ I'm always learning and trying to get 1% smarter each day. I'm open to collabora
 | --- | --- | --- |
 | **MarketQuad** | A verified, student-only marketplace | Next.js, React Native, TypeScript |
 | **Benny** | An AI-powered receipt tracker | Java, TypeScript, Spring Boot |
+| **Morph** | A TUI agent harness | Python, Textual, MCP, OpenAi |
 | **uEyes** | A conversational vision assistant | React, Python, Docker |
 | **Simple Shell Interpreter** | A C-based Unix shell | C, Process Management, Linux |
 | **uBlog** | An admin CRUD blogging system | Python, PyQt6, Unittest |
